@@ -1,0 +1,10 @@
+.phone-preview {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    background: gray;
+    border: 999px solid grey;
+}
